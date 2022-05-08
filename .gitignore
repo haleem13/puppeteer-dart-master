@@ -1,0 +1,14 @@
+_*
+.*
+!.gitignore
+!.gitattributes
+!.travis.yml
+!.github
+!.dockerignore
+!.pubignore
+build/
+pubspec.lock
+
+# Directory created by dartdoc
+doc/api/
+
